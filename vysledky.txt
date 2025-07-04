@@ -1,0 +1,12 @@
+vypocet: Magnetické pole v okolí pøímého vodièe byl:
+proud(I): 2.0, delka(a)4.0
+H= 0,08A/m
+
+vypocet: Magnetické pole uvnitø toroidní cívky byl:
+pocet zavitu(N): 0.1, velikost proudu(I)5.0, polomer toroidu(R): 4.0
+H= 0,02A/m
+
+vypocet: Magnetické pole uvnitø toroidní cívky byl:
+pocet zavitu(N): 0.1, velikost proudu(I)5.0, polomer toroidu(R): 4.0
+H= 0,02A/m
+

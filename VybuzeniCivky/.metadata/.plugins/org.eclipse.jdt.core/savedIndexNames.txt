@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\Programy\Java\java-Vybuzení cívky\VybuzeniCivky\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+797874164.index
+4122235270.index
+1804145755.index

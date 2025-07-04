@@ -1,0 +1,4 @@
+vypocet: Magnetické pole uvnitř vodiče byl:
+proud(I): 5.0, delka(a)10.0, polomer(r):5.0
+H= 0.32A/m
+

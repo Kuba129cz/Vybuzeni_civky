@@ -1,4 +1,4 @@
-Jedná se o školní projekt pro předmět s Javou. Aplikace umožnuje vypočítat magnetickou intenzitu cívky H na základě zadaných parametrů. Výsledky zapisuje do textového souboru.
+Jedná se o školní projekt ze střední školy pro předmět s Javou. Aplikace umožnuje vypočítat magnetickou intenzitu cívky H na základě zadaných parametrů. Výsledky zapisuje do textového souboru.
 
 **Ukázka:**
 
